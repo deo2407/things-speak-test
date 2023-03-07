@@ -7,7 +7,7 @@ RUSE_LON = 25.97
 LINK = f'https://api.met.no/weatherapi/locationforecast/2.0/compact?lat={RUSE_LAT}&lon={RUSE_LON}'
 
 WRITE_API_KEY = 'FTOBS0765E4VGFNM'
-SLEEP_TIME = 20
+SLEEP_TIME = 22
 
 
 def get_data():
